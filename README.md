@@ -10,6 +10,7 @@ Videos:
 - https://www.youtube.com/playlist?list=PLDmvslp_VR0xlwr5lAx2PDsZLu7oIOhpX (YouTube) — This is a YouTube playlist that combines a bunch of videos that together make up a step-by-step tutorial for setting up your working environment, making your first Rails app and even deploying it!
 - http://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-4-Essential-Training/139989-2.html (Lynda.com) — This tutorial series from Lynda.com will also walk you through creating a Rails app. There are lots of great explanations here on how Rails works and how it's set up, so well worth a watch. You do need to sign up to Lynda.com to view this tutorial, but there's a 10 day free trial and in addition to watching the videos, you can download lots of resources and working files, so it's well worth signing up.
 - https://www.youtube.com/watch?v=_BgVHuQSSdQ (YouTube) — This video talks you through the Model View Controller architecture.
+- https://mackenziechild.me/12-in-12/ — A series of screencasts with instructions for making different types of Rails apps.
 
 Guides:
 - http://guides.railsgirls.com/ — Rails Girls Guide containing tutorials on how to install Rails, build your first app, add styling and more!
